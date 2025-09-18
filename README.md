@@ -1,4 +1,4 @@
-# LPNDNet
+# NDLPNet
 
 ## Datasets
 <table>
