@@ -1,4 +1,3 @@
-(The file `f:\EAAI-返修\github\README.md` exists, but is empty)
 # NDLPNet: A Location-Aware Network for Nighttime Image Deraining with a Semi-Real Synthetic Paired Benchmark Dataset
 
 [![arXiv](https://img.shields.io/badge/arXiv-Submitted-b31b1b.svg)](https://arxiv.org/)
