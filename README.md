@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Submitted-b31b1b.svg)](https://arxiv.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 > **A Location-Aware Network for Nighttime Image Deraining with a Semi-Real Synthetic Paired Benchmark Dataset**
 
@@ -163,8 +163,8 @@ We provide two pre-trained checkpoints:
 
 | Model | Dataset | Download |
 |:---|:---|:---|
-| **NDLPNet-NSR** | NSR (Semi-Real) | [checkpoints/NSR.pth](checkpoints/NSR.pth) |
-| **NDLPNet-GTAV** | GTAV-NightRain | [checkpoints/GTAV-Nightrain.pth](checkpoints/GTAV-Nightrain.pth) |
+| **NDLPNet-NSR** | NSR (Semi-Real) | [📥Download](https://pan.baidu.com/s/1g1XyUNDlUO4O3XuvoZ4b8Q?pwd=rba7) <br> `pwd: rba7`|
+| **NDLPNet-GTAV** | GTAV-NightRain | [📥Download](https://pan.baidu.com/s/1bDbli_HV5QLyoG-VmHhXCg?pwd=arvp) <br> `pwd: arvp`|
 
 ### 🎯 Training
 
