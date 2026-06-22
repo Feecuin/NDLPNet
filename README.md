@@ -10,7 +10,7 @@
 This is the official PyTorch implementation of **NDLPNet**, a Transformer-based framework for location-aware nighttime image deraining. NDLPNet explicitly models the spatial heterogeneity of rain-related degradation under complex nighttime illumination through a combination of Rain Prior Extractor (RPE) and Position Perception Module (PPM), which jointly utilize Spatial Position Coding (SPC) and Efficient Channel Attention (ECA).
 
 <p align="center">
-  <img src="Figs/figure1.pdf" width="90%">
+  <img src="Figs/figure1_01.png" width="90%">
 </p>
 
 ## 📖 Abstract
@@ -30,16 +30,16 @@ Visual degradation caused by rain streak artifacts in low-light conditions signi
 
 ## 🔥 Visual Results
 
-### Nighttime Deraining Results
+### Nighttime Deraining Results(NSR)
 
 <p align="center">
-  <img src="Figs/figure6.pdf" width="90%">
+  <img src="Figs/figure6_01.png" width="90%">
 </p>
 
-### Comparison with State-of-the-art Methods
+### Nighttime Deraining Results(GTAV-NightRain)
 
 <p align="center">
-  <img src="Figs/figure7.pdf" width="90%">
+  <img src="Figs/figure7_01.png" width="90%">
 </p>
 
 
@@ -74,7 +74,7 @@ NDLPNet addresses the unique challenges of nighttime rain removal by introducing
 #### Dataset Characteristics & Uniqueness
 
 <p align="center">
-  <img src="Figs/NSR.pdf" width="90%">
+  <img src="Figs/NSR_01.png" width="90%">
 </p>
 
 **Data Acquisition & Construction**:
